@@ -1,6 +1,8 @@
 # Lightbox-like Image viewer for React
 Lightbox image image viewer for react with zoom, rotate and move feature with single or multi image. Includes basic touch support. 
 
+Support for React 18 and Nextjs 13
+
 ## 🚀[See it in Action](https://theanam.github.io/react-awesome-lightbox/)
 
 ![imgur](https://imgur.com/rGnutjz.gif)
